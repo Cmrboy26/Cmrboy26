@@ -1,3 +1,9 @@
+
+### Hi, I'm Colten!
+
+- I'm currently a high schooler with a primary focus on programming
+- I've been programming in Java since 2019 (5 years!) and other various languages before and currently
+
 <a href="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app">
   <img height=50% align="center" src="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app/api/?username=Cmrboy26&show_icons=true&theme=transparent&count_private=true" />
 </a>
