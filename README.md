@@ -1,10 +1,10 @@
-### Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cmrboy26&theme=transparent&show-icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cmrboy26&theme=transparent&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cmrboy26&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 <!--
 **Cmrboy26/Cmrboy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
