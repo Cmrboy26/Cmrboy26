@@ -1,4 +1,4 @@
-![CMRBOY26'S STATS](https://github-readme-stats-sigma-teal-33.vercel.app/api/?username=Cmrboy26&show_icons=true&theme=transparent)
+![CMRBOY26'S STATS](https://github-readme-stats-sigma-teal-33.vercel.app/api/?username=Cmrboy26&show_icons=true&theme=transparent&count_private=true)
 ![TOP LANGUAGES](https://github-readme-stats-sigma-teal-33.vercel.app/api/top-langs/?username=Cmrboy26&langs_count=8&show_icons=true&theme=transparent)
 
 <!--
