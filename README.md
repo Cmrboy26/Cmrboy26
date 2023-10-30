@@ -1,13 +1,8 @@
-![CMRBOY26'S STATS](https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app/api/?username=Cmrboy26&show_icons=true&theme=transparent&count_private=true)
-![TOP LANGUAGES](https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app/api/top-langs/?username=Cmrboy26&langs_count=8&show_icons=true&theme=transparent)
-
-Yea
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app/api/?username=Cmrboy26&show_icons=true&theme=transparent&count_private=true" />
+<a href="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app">
+  <img height=200 align="center" src="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app/api/?username=Cmrboy26&show_icons=true&theme=transparent&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=300 align="center" src="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app/api/top-langs/?username=Cmrboy26&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app">
+  <img height=200 align="center" src="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app/api/top-langs/?username=Cmrboy26&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!--
