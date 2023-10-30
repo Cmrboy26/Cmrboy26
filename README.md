@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Cmrboy26's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cmrboy26&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cmrboy26&theme=transparent)
 
 <!--
 **Cmrboy26/Cmrboy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
