@@ -1,5 +1,5 @@
-![CMRBOY26'S STATS](https://github-readme-stats-2q03ncg3k-cmrboy26s-projects.vercel.app/api?username=Cmrboy26&show_icons=true&theme=transparent)
-![TOP LANGUAGES](https://github-readme-stats-2q03ncg3k-cmrboy26s-projects.vercel.app/api/top-langs/?username=Cmrboy26&langs_count=8&show_icons=true&theme=transparent)
+![CMRBOY26'S STATS](https://github-readme-stats-git-master-cmrboy26s-projects.vercel.app/api/?username=Cmrboy26&show_icons=true&theme=transparent)
+![TOP LANGUAGES](https://github-readme-stats-git-master-cmrboy26s-projects.vercel.app/api/top-langs/?username=Cmrboy26&langs_count=8&show_icons=true&theme=transparent)
 
 <!--
 **Cmrboy26/Cmrboy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
