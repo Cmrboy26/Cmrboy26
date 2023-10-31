@@ -19,7 +19,7 @@
   <img height=50% align="center" src="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app/api/top-langs/?username=Cmrboy26&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320&exclude_repo=Zeltack,github-readme-stats-2" />
 </a>
 
-* not programming languages 🥰
+- * not programming languages 🥰
 
 <!--
 **Cmrboy26/Cmrboy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
