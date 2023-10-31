@@ -1,8 +1,16 @@
 
-### Hi, I'm Colten!
+# Hi, I'm Colten!
 
-- I'm currently a high schooler with a primary focus on programming
-- I've been programming in Java since 2019 (5 years!) and various other languages
+- I'm a high schooler with a deep interest in programming and computer science
+- Java is my primary language
+- I also use (from most to least frequent) C#, HTML*, CSS*, C++, Python, and Lua
+
+## History
+
+- My interest in programming stemmed from Roblox (Yeah yeah, I know) in 2017 and Minecraft mods around 2018 
+- I self-taught myself Java in ~2019 (about 5 years!) and have been programming ever since
+
+## Stats
 
 <a href="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app">
   <img height=50% align="center" src="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app/api/?username=Cmrboy26&show_icons=true&theme=transparent&count_private=true" />
@@ -10,6 +18,8 @@
 <a href="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app">
   <img height=50% align="center" src="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app/api/top-langs/?username=Cmrboy26&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320&exclude_repo=Zeltack,github-readme-stats-2" />
 </a>
+
+* not programming languages 🥰
 
 <!--
 **Cmrboy26/Cmrboy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
