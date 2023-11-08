@@ -10,7 +10,7 @@
 ## History
 
 - My interest in programming stemmed from Roblox (yeah yeah, I know) in 2017 and Minecraft mods around 2018 
-- I self-taught myself Java in ~2019 (about 5 years!) and have been programming ever since
+- I self-taught myself Java in ~2019 (about 5 years ago!) and have been programming ever since
 
 ## Stats
 
