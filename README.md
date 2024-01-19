@@ -1,7 +1,7 @@
 
 # Hi, I'm Colten!
 
-- I'm a high-performing high schooler with a deep interest in programming and computer science
+- I'm a high schooler with a deep interest in programming and computer science
 - Java is my go-to language and some of my secondaries are (from most to least frequent) C#, HTML, CSS, C++, Python, and Lua
 
 ## History
