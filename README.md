@@ -2,27 +2,26 @@
 # Hi, I'm Colten!
 
 - I'm a high schooler with a deep interest in programming and computer science
-- Java is my go-to language and some of my secondaries are (from most to least frequent) C#, HTML, CSS, C++, Python, and Lua
+- My primary programming language is Java, and my secondary languages, listed in order of usage and proficiency, are C#, HTML, CSS, C++, Python, and Lua.
 
 ## History
 
-- My interest in programming stemmed from Roblox (yeah yeah, I know) in 2017 and Minecraft mods around 2018 
-- I self-taught myself Java in ~2019 (about 5 years ago!) and have been programming ever since
+- My interest in programming stemmed from Roblox (yeah yeah, I know) in 2017 and Minecraft mods around 2018. 
+- I self-taught myself Java in ~2019 (about 5 years ago!) and have been programming ever since.
 
 ## Fun Facts
 
-- My favorite subject in school is math (calculus = best class)
-- Cats are OBJECTIVELY the best pet
-- I love playing (and making) video games in my free time
-- I enjoy composing and producing music when I feel inspired
-- Retro/Chiptune/8-bit music is my favorite style of music
-- I have been playing the trombone since I was in 5th grade (first chair first part in concert and jazz band 😎)
+- My favorite subject in school is math (calculus = best class).
+- Cats are OBJECTIVELY the best pet.
+- I love playing (and making) video games in my free time.
+- I enjoy composing and producing music when I feel inspired.
+- Retro/Chiptune/8-bit music is my favorite style of music.
+- I have been playing the trombone since I was in 5th grade (first chair first part in concert and jazz band 😎).
 
 ## What am I up to?
 
-- I'm currently working on a 2D video game titled Gaze
-- I'm programming a robot for the FTC CenterStage challenge
-- I'm working on staying up-to-date with school
+- I'm programming a robot for the FTC CenterStage challenge.
+- I'm working on staying up-to-date with school.
 
 ## GitHub Stats
 
