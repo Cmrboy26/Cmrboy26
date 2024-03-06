@@ -2,7 +2,8 @@
 # Hi, I'm Colten!
 
 - I'm a high schooler with a deep interest in programming and computer science
-- My primary programming language is Java, and my secondary languages, listed in order of usage and proficiency, are C#, HTML, CSS, C++, Python, and Lua.
+- My primary programming languages are Java and C#
+- Some other languages I'm familiar with, listed in order of highest usage and proficiency to lowest, are HTML, CSS, C++, Lua, amd Python.
 
 ## History
 
