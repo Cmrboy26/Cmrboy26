@@ -1,11 +1,10 @@
-
 # Hi, I'm Colten!
 
 - I'm a high schooler with a deep interest in programming and computer science
-- My primary programming languages are Java and C#
-- Some other languages I'm familiar with, listed in order of highest usage and proficiency to lowest, are HTML, CSS, C++, Lua, amd Python.
+- My primary programming language is Java
+- Some other languages I'm familiar with are HTML, CSS, C++, Lua, and Python.
 
-## History
+## My Programming History
 
 - My interest in programming stemmed from Roblox (yeah yeah, I know) in 2017 and Minecraft mods around 2018. 
 - I self-taught myself Java in ~2019 (about 5 years ago!) and have been programming ever since.
@@ -21,8 +20,14 @@
 
 ## What am I up to?
 
-- I'm programming a robot for the FTC CenterStage challenge.
-- I'm working on staying up-to-date with school.
+- Preparing to teach a Java coding class to get people interested in programming and robotics
+- Working on a tower defense game with unique game elements
+
+## Past Activities, Achievements, and Projects
+
+- Programmer during the FTC CenterStage competition (state qualifier, first year team)
+- 4.0 highschool unweighted GPA (5 total AP classes)
+
 
 ## GitHub Stats
 
