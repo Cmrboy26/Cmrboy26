@@ -1,33 +1,34 @@
 # Hi, I'm Colten!
 
-- I'm a high schooler with a deep interest in programming and computer science
-- My primary programming language is Java
-- Some other languages I'm familiar with are HTML, CSS, C++, Lua, and Python.
+- I'm a high schooler with a deep interest in programming and computer science.
+- My go-to programming language is Java.
+- Some other languages I'm familiar with are C#, HTML, CSS, C++, Lua, and Python.
 
 ## My Programming History
 
-- My interest in programming stemmed from Roblox (yeah yeah, I know) in 2017 and Minecraft mods around 2018. 
-- I self-taught myself Java in ~2019 (about 5 years ago!) and have been programming ever since.
+- I started my coding journey in 2017 with Roblox and with Minecraft mods around 2018. 
+- I self-taught myself Java in ~2019 and have been programming in my free time ever since.
 
 ## Fun Facts
 
-- My favorite subject in school is math (calculus = best class).
+- My favorite subject in school is math.
 - Cats are OBJECTIVELY the best pet.
 - I love playing (and making) video games in my free time.
 - I enjoy composing and producing music when I feel inspired.
 - Retro/Chiptune/8-bit music is my favorite style of music.
-- I have been playing the trombone since I was in 5th grade (first chair first part in concert and jazz band 😎).
+- I have been playing the trombone since I was in 5th grade. (I'm currently first chair first part in concert and jazz band).
 
 ## What am I up to?
 
-- Preparing to teach a Java coding class to get people interested in programming and robotics
-- Working on a tower defense game with unique game elements
+- Reviewing for the AP Computer Science A exam in May.
+- Programming for FTC "Into the Deep" competition.
+- Working on a tower defense game with unique game elements.
 
 ## Past Activities, Achievements, and Projects
 
-- Programmer during the FTC CenterStage competition (state qualifier, first year team)
-- 4.0 highschool unweighted GPA (5 total AP classes)
-
+- Programmer during the FTC "CenterStage" competition. (We were a state qualifier as a first year team).
+- 4.0 highschool unweighted GPA with 11 total AP classes.
+- Taught a Java coding class over the summer to get underclassmen interested in programming and robotics.
 
 ## GitHub Stats
 
