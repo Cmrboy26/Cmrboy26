@@ -1,12 +1,12 @@
 # Hi, I'm Colten!
 
-- I'm a high schooler with a deep interest in programming and computer science.
+- I'm a high schooler interested in programming and computer science.
 - My go-to programming language is Java.
 - Some other languages I'm familiar with are C#, HTML, CSS, C++, Lua, and Python.
 
 ## My Programming History
 
-- I started my coding journey in 2017 with Roblox and with Minecraft mods around 2018. 
+- I started my coding journey in 2017 with Roblox and Minecraft mods around 2018. 
 - I self-taught myself Java in ~2019 and have been programming in my free time ever since.
 
 ## Fun Facts
@@ -26,8 +26,8 @@
 
 ## Past Activities, Achievements, and Projects
 
-- Programmer during the FTC "CenterStage" competition. (We were a state qualifier as a first year team).
-- 4.0 highschool unweighted GPA with 11 total AP classes.
+- Programmer during the FTC "CenterStage" competition. (We were a state qualifier as a first-year team).
+- 4.0 high school unweighted GPA with 10 total AP classes.
 - Taught a Java coding class over the summer to get underclassmen interested in programming and robotics.
 
 ## GitHub Stats
