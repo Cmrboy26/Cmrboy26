@@ -1,34 +1,36 @@
 # Hi, I'm Colten!
 
-- I'm a high schooler interested in programming and computer science.
+- I'm a college freshman at MSOE majoring in Software Engineering and minoring in Math.
 - My go-to programming language is Java.
 - Some other languages I'm familiar with are C#, HTML, CSS, C++, Lua, and Python.
 
 ## My Programming History
 
 - I started my coding journey in 2017 with Roblox and Minecraft mods around 2018. 
-- I self-taught myself Java in ~2019 and have been programming in my free time ever since.
+- I self-taught myself Java around 2019
+- Since then in my free time, I have programmed my own games using LibGDX.
 
 ## Fun Facts
 
-- My favorite subject in school is math.
-- Cats are OBJECTIVELY the best pet.
+- My favorite subjects in high school were calculus and physics.
 - I love playing (and making) video games in my free time.
 - I enjoy composing and producing music when I feel inspired.
 - Retro/Chiptune/8-bit music is my favorite style of music.
-- I have been playing the trombone since I was in 5th grade. (I'm currently first chair first part in concert and jazz band).
+- I have been playing the trombone since I was in 5th grade.
 
 ## What am I up to?
 
-- Reviewing for the AP Computer Science A exam in May.
-- Programming for FTC "Into the Deep" competition.
-- Working on a tower defense game with unique game elements.
+- Preparing for college at MSOE.
+- Programming a online-multiplayer 4X game revolving around alchemy, chemistry, and combat using LibGDX and ECS.
+- Learning chemistry concepts and creating experience.
 
 ## Past Activities, Achievements, and Projects
 
-- Programmer during the FTC "CenterStage" competition. (We were a state qualifier as a first-year team).
+- Programmer during the FTC "CenterStage" and "Into the Deep" competition. (We were a state qualifier as a first-year team).
 - 4.0 high school unweighted GPA with 10 total AP classes.
-- Taught a Java coding class over the summer to get underclassmen interested in programming and robotics.
+- Taught two Java coding class over two summer to get underclassmen interested in programming and robotics.
+- Completed a multiplayer tower defense game in LibGDX.
+
 
 ## GitHub Stats
 
