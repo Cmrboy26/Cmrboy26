@@ -34,11 +34,11 @@
 
 ## GitHub Stats
 
-<a href="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app">
-  <img height=50% align="center" src="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app/api/?username=Cmrboy26&show_icons=true&theme=transparent&count_private=true" />
+<a href="https://github-readme-stats-real-liart.vercel.app">
+  <img height=50% align="center" src="https://github-readme-stats-real-liart.vercel.app/api/?username=Cmrboy26&show_icons=true&theme=transparent&count_private=true" />
 </a>
-<a href="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app">
-  <img height=50% align="center" src="https://github-readme-stats-2-git-main-cmrboy26s-projects.vercel.app/api/top-langs/?username=Cmrboy26&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320&exclude_repo=Zeltack,github-readme-stats-2" />
+<a href="https://github-readme-stats-real-liart.vercel.app">
+  <img height=50% align="center" src="https://github-readme-stats-real-liart.vercel.app/api/top-langs/?username=Cmrboy26&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320&exclude_repo=Zeltack,github-readme-stats-2" />
 </a>
 
 <!--
