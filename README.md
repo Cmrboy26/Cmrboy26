@@ -1,36 +1,36 @@
 # Hi, I'm Colten!
 
-- I'm a college freshman at MSOE majoring in Software Engineering and minoring in Math.
+- I'm a freshman at MSOE, majoring in Software Engineering, intending on minoring in math and data science.
 - My go-to programming language is Java.
-- Some other languages I'm familiar with are C#, HTML, CSS, C++, Lua, and Python.
+- Some other languages I'm familiar with are C#, HTML, CSS, C++, and Lua.
 
 ## My Programming History
 
 - I started my coding journey in 2017 with Roblox and Minecraft mods around 2018. 
 - I self-taught myself Java around 2019
-- Since then in my free time, I have programmed my own games using LibGDX.
+- Since then, in my free time, I have programmed my own games using libGDX.
+
+## Past Activities, Achievements, and Projects
+
+- One of two programmers during the FTC "CenterStage" and "Into the Deep" competition. (We were a state qualifier as a first-year team.)
+- Taught two Java coding classes over two summers to get underclassmen interested in programming and robotics.
+- Completed a multiplayer tower defense game in libGDX.
+- 4.0 unweighted GPA in high school with 10 total AP classes.
+  
+## What am I up to?
+
+- Working and studying hard at MSOE.
+- Programming an online multiplayer 4X game revolving around alchemy, chemistry, and combat using LibGDX and ECS.
+- Learning chemistry concepts.
+- Participating in Game Development Club and MSOE's AI club, MAIC.
 
 ## Fun Facts
 
 - My favorite subjects in high school were calculus and physics.
 - I love playing (and making) video games in my free time.
 - I enjoy composing and producing music when I feel inspired.
-- Retro/Chiptune/8-bit music is my favorite style of music.
+- 8-bit music is my favorite style of music.
 - I have been playing the trombone since I was in 5th grade.
-
-## What am I up to?
-
-- Preparing for college at MSOE.
-- Programming a online-multiplayer 4X game revolving around alchemy, chemistry, and combat using LibGDX and ECS.
-- Learning chemistry concepts and creating experience.
-
-## Past Activities, Achievements, and Projects
-
-- Programmer during the FTC "CenterStage" and "Into the Deep" competition. (We were a state qualifier as a first-year team).
-- 4.0 high school unweighted GPA with 10 total AP classes.
-- Taught two Java coding class over two summer to get underclassmen interested in programming and robotics.
-- Completed a multiplayer tower defense game in LibGDX.
-
 
 ## GitHub Stats
 
