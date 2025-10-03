@@ -1,35 +1,28 @@
 # Hi, I'm Colten!
 
-- I'm a freshman at MSOE, majoring in Software Engineering, intending on minoring in math and data science.
-- My go-to programming language is Java.
-- Some other languages I'm familiar with are C#, HTML, CSS, C++, and Lua.
-
-## My Programming History
-
-- I started my coding journey in 2017 with Roblox and Minecraft mods around 2018. 
-- I self-taught myself Java around 2019
-- Since then, in my free time, I have programmed my own games using libGDX.
-
-## Past Activities, Achievements, and Projects
-
-- One of two programmers during the FTC "CenterStage" and "Into the Deep" competition. (We were a state qualifier as a first-year team.)
-- Taught two Java coding classes over two summers to get underclassmen interested in programming and robotics.
-- Completed a multiplayer tower defense game in libGDX.
-- 4.0 unweighted GPA in high school with 10 total AP classes.
+I'm a first-year Software Engineering student at MSOE who strives to live a life of learning. In my time outside of studying and school work, I design and develop various types of projects. In the past, I've programmed a full-stack web application with a relational database, a completed game networked using a server-client model, and a state-qualifying robot for FIRST Tech Challenge with autonomous capabilities. (You can view all these projects and more in my pinned repositories below).
   
 ## What am I up to?
 
 - Working and studying hard at MSOE.
-- Programming an online multiplayer 4X game revolving around alchemy, chemistry, and combat using LibGDX and ECS.
-- Learning chemistry concepts.
-- Participating in Game Development Club and MSOE's AI club, MAIC.
+- Designing a modular JWT authentication Spring Boot library accessable through a RESTful API.
+- Developing an online multiplayer 4X game revolving around alchemy, chemistry, and combat using LibGDX and structured with an entity-component system.
+- Participating in Game Development Club, Society of Software Engineers, and MSOE's AI club, MAIC.
+- Learning and applying chemistry concepts at my home laboratory.
+
+## Past Activities and Achievements
+
+- Qualified for Wisconsin state FTC competition first year team of two programmers
+- Taught two Java coding classes over two summers to get underclassmen interested in programming and robotics.
+- Completed my first polished video game, Project Tetra TD, a scalable multiplayer tower defense game.
 
 ## Fun Facts
 
-- My favorite subjects in high school were calculus and physics.
-- I love playing (and making) video games in my free time.
-- I enjoy composing and producing music when I feel inspired.
-- 8-bit music is my favorite style of music.
+- My personal website/portfolio, coltenreissmann.me, is hosted on my own dedicated Linux server. (Our network has been experiencing issues, which is incredibly unfortunate, but I'm working on fixing it).
+- I enjoy the problem-solving associated with classes like calculus and physics 
+- I love playing and developing video games in my free time.
+- When I feel inspired, I enjoy composing and producing music.
+- 8-bit music is my favorite genre of music.
 - I have been playing the trombone since I was in 5th grade.
 
 ## GitHub Stats
