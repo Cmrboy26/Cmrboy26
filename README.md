@@ -6,6 +6,7 @@ I'm a first-year Software Engineering student at MSOE who strives to live a life
 
 - Working and studying hard at MSOE.
 - Designing a modular JWT authentication Spring Boot library accessable through a RESTful API.
+- Researching an AI-powered grayscale to color image transformer for an independent academic research project.
 - Developing an online multiplayer 4X game revolving around alchemy, chemistry, and combat using LibGDX and structured with an entity-component system.
 - Participating in Game Development Club, Society of Software Engineers, and MSOE's AI club, MAIC.
 - Learning and applying chemistry concepts at my home laboratory.
